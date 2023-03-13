@@ -18,6 +18,7 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 
 <div align="center">
     Angular • Angular Material • HTML • CSS
+    <br>
     <img src="assets/angular.png" alt="Logo 1" width="50" height="50">
     <img src="assets/material.png" alt="Logo 2" width="50" height="50">
     <img src="assets/html.png" alt="Logo 3" width="50" height="50">
