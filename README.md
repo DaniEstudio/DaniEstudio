@@ -1,4 +1,4 @@
-###¡Hola! 👋
+### ¡Hola! 👋
 
 Soy Daniela Gavilán, estudiante de una Tecnicatura Superior en Desarrollo de Software, programadora fullstack con experiencia en Angular, Java y Spring. Me encanta desarrollar software y aprender nuevas tecnologías.
 
