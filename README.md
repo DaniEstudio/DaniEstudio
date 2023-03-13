@@ -19,9 +19,9 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 - Angular
 - Java
 - Spring
-- HTML
-- CSS
-- JavaScript
+- HTML/CSS
+- Bootstrap
+- TypeScript
 - Git
 
 ## ¿Qué estoy haciendo ahora? <a name="actualmente"></a>
