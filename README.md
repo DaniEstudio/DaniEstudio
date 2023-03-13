@@ -18,19 +18,19 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 
 <ul style="display: flex; list-style: none; padding: 0;">
 	<li style="margin-right: 20px; text-align: center;">
-		![Angular](assets/angular.png)
+		<img src="assets/angular.png" alt="Logo 1" style="max-width: 100px;">
 		<br>
-		Angular
+		Logo 1
 	</li>
 	<li style="margin-right: 20px; text-align: center;">
-		![Angular Material](assets/material.png)
+		<img src="assets/material.png" alt="Logo 1" style="max-width: 100px;">
 		<br>
-		Angular Material
+		Logo 1
 	</li>
 	<li style="margin-right: 20px; text-align: center;">
-		![HTML](html.png)
+		<img src="assets/html.png" alt="Logo 1" style="max-width: 100px;">
 		<br>
-		HTML
+		Logo 1
 	</li>
 </ul>
 
