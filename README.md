@@ -1,8 +1,14 @@
 <h1 align="center">¡Hola! 👋</h1>
 
-Soy Daniela Gavilán, estudiante de una Tecnicatura Superior en Desarrollo de Software, programadora fullstack con experiencia en Angular, Java y Spring. Me encanta desarrollar software y aprender nuevas tecnologías.
+<p align="center">Soy Daniela Gavilán, estudiante de una Tecnicatura Superior en Desarrollo de Software, programadora fullstack con experiencia en Angular, Java y Spring. Me encanta desarrollar software y aprender nuevas tecnologías.</p>
 
-[About](#about) • [Mis habilidades](#mis-habilidades) • [¿Qué estoy haciendo ahora?](#actualmente) • [Hablemos](#hablemos)
+<div style="display:flex; justify-content:center;">
+    <a href="#about">About</a> •
+    <a href="#mis-habilidades">Mis habilidades</a> •
+    <a href="#actualmente">¿Qué estoy haciendo ahora?</a> •
+    <a href="#hablemos">Hablemos</a>
+</div>
+
 
 ## Sobre mi perfil de GitHub <a name="about"></a>
 
