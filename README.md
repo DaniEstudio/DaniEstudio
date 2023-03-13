@@ -17,20 +17,23 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 ## Mis habilidades <a name="mis-habilidades"></a>
 
 <div align="center">
-    • Angular <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
-    - Angular Material
-    - HTML
-    - CSS
-    - Bootstrap
-    - TypeScript
+    <div style="display flex; flex-direction: column; align-items: center;">
+        <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
+        <span style="font-weight: bold;">Angular</span>
+    </div>
+    • Angular Material <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
+    • HTML <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
+    • CSS <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
+    • Bootstrap <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
+    • TypeScript <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
     
 </div>
 <div align="center">
-    - Java
-    - Spring
-    - Git
-    - GitHub
-    - GitLab
+    - Java <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
+    - Spring <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
+    - Git <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
+    - GitHub <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
+    - GitLab <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
 </div>
 
 ## ¿Qué estoy haciendo ahora? <a name="actualmente"></a>
