@@ -17,13 +17,20 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 ## Mis habilidades <a name="mis-habilidades"></a>
 
 <div align="center">
-    - Angular
-    - Java
-    - Spring
-    - HTML/CSS
+    • Angular <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
+    - Angular Material
+    - HTML
+    - CSS
     - Bootstrap
     - TypeScript
+    
+</div>
+<div align="center">
+    - Java
+    - Spring
     - Git
+    - GitHub
+    - GitLab
 </div>
 
 ## ¿Qué estoy haciendo ahora? <a name="actualmente"></a>
