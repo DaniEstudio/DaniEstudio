@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="#acerca-de">Acerca de</a> •
-    <a href="#mis-habilidades">Mis habilidades</a> •
+    <a href="#herramientas">Mis Stack</a> •
     <a href="#actualmente">¿Qué estoy haciendo ahora?</a> •
     <a href="#hablemos">Hablemos</a>
 </div>
@@ -14,7 +14,7 @@
 
 En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de cursos que he tomado y más adelante algunos proyectos personales que he desarrollado.
 
-## Las herramientas que uso <a name="mis-habilidades"></a>
+## Mis stack de herramientas <a name="herramientas"></a>
 
 <div align="center">    
     <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
