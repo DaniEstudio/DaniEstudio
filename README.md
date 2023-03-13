@@ -16,7 +16,8 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 
 ## Mis habilidades <a name="mis-habilidades"></a>
 
-<img src="assets/angular.png" alt="Logo 1" width="50" height="50"> <span style="display: inline-block;"> **Logo 1** </span>
+<div align="center">
+    <img src="assets/angular.png" alt="Logo 1" width="50" height="50"> <span style="display: inline-block;"> **Logo 1** </span>
 <img src="assets/material.png" alt="Logo 2" width="50" height="50"> **Logo 2**
 <img src="assets/html.png" alt="Logo 3" width="50" height="50"> Logo 3
 
@@ -26,6 +27,7 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
    Git <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
    GitHub <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
    GitLab <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
+</div>
 
 
 ## ¿Qué estoy haciendo ahora? <a name="actualmente"></a>
