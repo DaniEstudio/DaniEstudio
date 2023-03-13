@@ -33,9 +33,10 @@ Actualmente ademas de mis estudios, estoy enfocada en aprender más sobre metodo
 Me encanta colaborar con otros desarrolladores y aprender de ellos. Si te interesa trabajar juntos en algún proyecto o simplemente charlar sobre programación, no dudes en contactarme.
 
 <p align="center">
-  <a href="https://discord.com/channels/@me/2921" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/daniela-gavilán-bba28122a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://discord.com/channels/@me/2921" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/daniela-gavilán-bba28122a/" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
+
 
 
 ¡Gracias por visitar mi perfil!
