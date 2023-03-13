@@ -16,8 +16,7 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 
 ## Mis habilidades <a name="mis-habilidades"></a>
 
-<div align="center">
-    
+<div align="center">    
     <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
     <img src="assets/material.png" alt="Angular Material logo" width="50" height="50">
     <img src="assets/html.png" alt="HTML logo" width="50" height="50">
