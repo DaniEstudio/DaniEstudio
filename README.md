@@ -16,13 +16,15 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 
 ## Mis habilidades <a name="mis-habilidades"></a>
 
-- Angular
-- Java
-- Spring
-- HTML/CSS
-- Bootstrap
-- TypeScript
-- Git
+<div align="center">
+    - Angular
+    - Java
+    - Spring
+    - HTML/CSS
+    - Bootstrap
+    - TypeScript
+    - Git
+</div>
 
 ## ¿Qué estoy haciendo ahora? <a name="actualmente"></a>
 
