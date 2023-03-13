@@ -16,7 +16,7 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 - JavaScript
 - Git
 
-## Pasa a saludar
+## Hablemos
 
 Me encanta colaborar con otros desarrolladores y aprender de ellos. Si te interesa trabajar juntos en algún proyecto o simplemente charlar sobre programación, no dudes en contactarme.
 
