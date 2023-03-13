@@ -17,32 +17,33 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 ## Mis habilidades <a name="mis-habilidades"></a>
 
 <div align="center">
-    <div style="display flex; flex-direction: column; align-items: center;">
-        <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
-        <span style="font-weight: bold;">Angular</span>
+    <div style="display: inline-block; margin: 10px;">
+        <img src="assets/angular.png" alt="Angular logo" width="50" height="50"><br>
+        Angular
     </div>
-     <div style="display flex; flex-direction: column; align-items: center;">
-        <img src="assets/material.png" alt="Angular Material logo" width="50" height="50">
-        <span style="font-weight: bold;">Angular Material</span>
+    <div style="display: inline-block; margin: 10px;">
+        <img src="assets/angular.png" alt="Angular Material logo" width="50" height="50
+        <br>
+        Angular Material
     </div>
-    <div style="display flex; flex-direction: column; align-items: center;">
-        <img src="assets/html.png" alt="HTML logo" width="50" height="50">
-        <span style="font-weight: bold;">HTML</span>
+    <div style="display: inline-block; margin: 10px;">
+        <img src="assets/html.png" alt="HTML logo" width="50" height="50"><br>
+        HTML
     </div>
-    <div style="display flex; flex-direction: column; align-items: center;">
-        <img src="assets/css-3.png" alt="CSS 3 logo" width="50" height="50">
-        <span style="font-weight: bold;">CSS</span>
+    <div style="display: inline-block; margin: 10px;">
+        <img src="assets/css-3.png" alt="CSS 3 logo" width="50" height="50"><br>
+        CSS
     </div>
-    <div style="display flex; flex-direction: column; align-items: center;">
-        <img src="assets/bootstrap.png" alt="Bootstrap logo" width="50" height="50">
-        <span style="font-weight: bold;">Bootstrap</span>
+    <div style="display: inline-block; margin: 10px;">
+        <img src="assets/bootstrap.png" alt="Bootstrap logo" width="50" height="50"><br>
+        Bootstrap
     </div>
-    <div style="display flex; flex-direction: column; align-items: center;">
-        <img src="assets/typescript.png" alt="TypeScrip logo" width="50" height="50">
-        <span style="font-weight: bold;">TypeScript</span>
+    <div style="display: inline-block; margin: 10px;">
+        <img src="assets/typescript.png" alt="TypeScript logo" width="50" height="50">          <br>
+        TypeScript
     </div>
-    
 </div>
+
 <div align="center">
     - Java <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
     - Spring <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
