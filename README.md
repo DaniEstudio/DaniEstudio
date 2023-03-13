@@ -25,6 +25,7 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
     <img src="assets/css-3.png" alt="Logo 3" width="50" height="50">
     <img src="assets/typescript.png" alt="Logo 3" width="50" height="50">
     <img src="assets/bootstrap.png" alt="Logo 3" width="50" height="50">
+    <br>
     Java • Spring • Git • GitHub • GitLab
     <img src="assets/java.png" alt="Logo 1" width="50" height="50">
     <img src="assets/spring-boot.png" alt="Logo 2" width="50" height="50">
