@@ -16,6 +16,24 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 
 ## Mis habilidades <a name="mis-habilidades"></a>
 
+<ul style="display: flex; list-style: none; padding: 0;">
+	<li style="margin-right: 20px; text-align: center;">
+		![Angular](assets/angular.png)
+		<br>
+		Angular
+	</li>
+	<li style="margin-right: 20px; text-align: center;">
+		![Angular Material](assets/material.png)
+		<br>
+		Angular Material
+	</li>
+	<li style="margin-right: 20px; text-align: center;">
+		![HTML](html.png)
+		<br>
+		HTML
+	</li>
+</ul>
+
 <div align="center" style="display: inline-block;">
     <div style="display: inline-block; margin: 10px;">
         <img src="assets/angular.png" alt="Angular logo" width="50" height="50"><br>
