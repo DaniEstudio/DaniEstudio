@@ -21,32 +21,44 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 <img src="assets/html.png" alt="Logo 3" width="50" height="50"> **Logo 3**
 
 
-<div align="center" style="display: inline-block;">
-    <div style="display: inline-block; margin: 10px;">
-        <img src="assets/angular.png" alt="Angular logo" width="50" height="50"><br>
-        Angular
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-        <img src="assets/material.png" alt="Angular Material logo" width="50" height="50"><br>
-        Angular Material
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-        <img src="assets/html.png" alt="HTML logo" width="50" height="50"><br>
-        HTML
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-        <img src="assets/css-3.png" alt="CSS 3 logo" width="50" height="50"><br>
-        CSS
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-        <img src="assets/bootstrap.png" alt="Bootstrap logo" width="50" height="50"><br>
-        Bootstrap
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-        <img src="assets/typescript.png" alt="TypeScript logo" width="50" height="50">          <br>
-        TypeScript
-    </div>
-</div>
+<!-- Lista de logos en una fila -->
+<ul class="logo-list">
+	<li><img src="assets/logo1.png" alt="Logo 1"><p>Logo 1</p></li>
+	<li><img src="assets/logo2.png" alt="Logo 2"><p>Logo 2</p></li>
+	<li><img src="assets/logo3.png" alt="Logo 3"><p>Logo 3</p></li>
+</ul>
+
+<!-- Estilos CSS -->
+<style>
+.logo-list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.logo-list li {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 20px;
+}
+
+.logo-list li img {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.logo-list li p {
+  margin: 0;
+  text-align: center;
+}
+</style>
+
 
 <div align="center">
     - Java <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
