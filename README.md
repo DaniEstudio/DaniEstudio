@@ -16,20 +16,10 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 
 ## Mis habilidades <a name="mis-habilidades"></a>
 
-<ul style="display: flex; list-style: none; padding: 0;">
-	<li style="margin-right: 20px; text-align: center;">
-		<img src="assets/angular.png" alt="Logo 1" width="50" height="50">
-		<p style="margin: 0;">Angular</p>
-	</li>
-	<li style="margin-right: 20px; text-align: center;">
-		<img src="assets/material.png" alt="Logo 2" width="50" height="50">
-		<p style="margin: 0;">Logo 2</p>
-	</li>
-	<li style="margin-right: 20px; text-align: center;">
-		<img src="assets/html.png" alt="Logo 3" width="50" height="50">
-		<p style="margin: 0;">Logo 3</p>
-	</li>
-</ul>
+<img src="assets/angular.png" alt="Logo 1" style="width: 150px; height: auto;"> **Logo 1**
+<img src="assets/material.png" alt="Logo 2" style="width: 150px; height: auto;"> **Logo 2**
+<img src="assets/html.png" alt="Logo 3" style="width: 150px; height: auto;"> **Logo 3**
+
 
 <div align="center" style="display: inline-block;">
     <div style="display: inline-block; margin: 10px;">
