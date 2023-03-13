@@ -21,9 +21,8 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
         <img src="assets/angular.png" alt="Angular logo" width="50" height="50"><br>
         Angular
     </div>
-     <div style="display: inline-block; margin: 10px;">
-        <img src="assets/material.png" alt="Angular Material logo" width="50" height="50>
-        <br>
+    <div style="display: inline-block; margin: 10px;">
+        <img src="assets/material.png" alt="Angular Material logo" width="50" height="50><br>
         Angular Material
     </div>
     <div style="display: inline-block; margin: 10px;">
