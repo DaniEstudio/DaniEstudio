@@ -3,14 +3,14 @@
 <p align="center">Soy Daniela Gavilán, estudiante de una Tecnicatura Superior en Desarrollo de Software, programadora fullstack con experiencia en Angular, Java y Spring. Me encanta desarrollar software y aprender nuevas tecnologías.</p>
 
 <div align="center">
-    <a href="#about">About</a> •
+    <a href="#acerca-de">Acerca de</a> •
     <a href="#mis-habilidades">Mis habilidades</a> •
     <a href="#actualmente">¿Qué estoy haciendo ahora?</a> •
     <a href="#hablemos">Hablemos</a>
 </div>
 
 
-## Sobre mi perfil de GitHub <a name="about"></a>
+## Sobre mi perfil de GitHub <a name="acerca-de"></a>
 
 En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de cursos que he tomado y más adelante algunos proyectos personales que he desarrollado.
 
