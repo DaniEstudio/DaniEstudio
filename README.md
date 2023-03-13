@@ -21,11 +21,26 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
         <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
         <span style="font-weight: bold;">Angular</span>
     </div>
-    • Angular Material <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
-    • HTML <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
-    • CSS <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
-    • Bootstrap <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
-    • TypeScript <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
+     <div style="display flex; flex-direction: column; align-items: center;">
+        <img src="assets/material.png" alt="Angular Material logo" width="50" height="50">
+        <span style="font-weight: bold;">Angular Material</span>
+    </div>
+    <div style="display flex; flex-direction: column; align-items: center;">
+        <img src="assets/html.png" alt="HTML logo" width="50" height="50">
+        <span style="font-weight: bold;">HTML</span>
+    </div>
+    <div style="display flex; flex-direction: column; align-items: center;">
+        <img src="assets/css-3.png" alt="CSS 3 logo" width="50" height="50">
+        <span style="font-weight: bold;">CSS</span>
+    </div>
+    <div style="display flex; flex-direction: column; align-items: center;">
+        <img src="assets/bootstrap.png" alt="Bootstrap logo" width="50" height="50">
+        <span style="font-weight: bold;">Bootstrap</span>
+    </div>
+    <div style="display flex; flex-direction: column; align-items: center;">
+        <img src="assets/typescript.png" alt="TypeScrip logo" width="50" height="50">
+        <span style="font-weight: bold;">TypeScript</span>
+    </div>
     
 </div>
 <div align="center">
