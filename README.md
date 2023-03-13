@@ -17,8 +17,7 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 ## Mis habilidades <a name="mis-habilidades"></a>
 
 <div align="center">
-    Angular • Angular Material • HTML • CSS • TypeScript • Bootstrap 
-    <br>
+    
     <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
     <img src="assets/material.png" alt="Angular Material logo" width="50" height="50">
     <img src="assets/html.png" alt="HTML logo" width="50" height="50">
@@ -26,13 +25,15 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
     <img src="assets/typescript.png" alt="TypeScript logo" width="50" height="50">
     <img src="assets/bootstrap.png" alt="Bootstrap logo" width="50" height="50">
     <br>
-    Java • Spring • Git • GitHub • GitLab
-    <br>
+    Angular • Angular Material • HTML • CSS • TypeScript • Bootstrap 
+    <br>    
     <img src="assets/java.png" alt="Java logo" width="50" height="50">
     <img src="assets/spring-boot.png" alt="Spring logo" width="50" height="50">
     <img src="assets/git.png" alt="Git logo" width="50" height="50">
     <img src="assets/github.png" alt="GitHub logo" width="50" height="50">
     <img src="assets/gitlab.png" alt="GitLab logo" width="50" height="50">
+    <br>
+    Java • Spring • Git • GitHub • GitLab
 </div>
 
 
