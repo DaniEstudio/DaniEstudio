@@ -14,7 +14,7 @@
 
 En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de cursos que he tomado y más adelante algunos proyectos personales que he desarrollado.
 
-## Mis habilidades <a name="mis-habilidades"></a>
+## Las herramientas que uso <a name="mis-habilidades"></a>
 
 <div align="center">    
     <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
