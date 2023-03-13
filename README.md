@@ -21,52 +21,12 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 <img src="assets/html.png" alt="Logo 3" width="50" height="50"> **Logo 3**
 
 
-<!-- Lista de logos en una fila -->
-<ul class="logo-list">
-	<li><img src="assets/logo1.png" alt="Logo 1"><p>Logo 1</p></li>
-	<li><img src="assets/logo2.png" alt="Logo 2"><p>Logo 2</p></li>
-	<li><img src="assets/logo3.png" alt="Logo 3"><p>Logo 3</p></li>
-</ul>
-
-<!-- Estilos CSS -->
-<style>
-.logo-list {
-  list-style: none;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  margin: 0;
-  padding: 0;
-}
-
-.logo-list li {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin: 0 20px;
-}
-
-.logo-list li img {
-  max-width: 100px;
-  max-height: 100px;
-}
-
-.logo-list li p {
-  margin: 0;
-  text-align: center;
-}
-</style>
-
-
-<div align="center">
     - Java <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
     - Spring <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
     - Git <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
     - GitHub <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
     - GitLab <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
-</div>
+
 
 ## ¿Qué estoy haciendo ahora? <a name="actualmente"></a>
 
