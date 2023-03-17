@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 👋</h1>
 
-<p align="center">Mi nombre es Daniela Gavilán, soy estudiante de una Tecnicatura Superior en Desarrollo de Software y programadora fullstack con experiencia en Angular, Java y Spring. Me encanta desarrollar software y aprender nuevas tecnologías.</p>
+<p align="center">Mi nombre es Daniela Gavilán, soy programadora fullstack con experiencia en Angular, Java y Spring. Me encanta desarrollar software y aprender nuevas tecnologías.</p>
 
 <div align="center">
     <a href="#acerca-de">Acerca de</a> •
@@ -38,7 +38,7 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 
 ## ¿Qué estoy haciendo ahora? <a name="actualmente"></a>
 
-Actualmente ademas de mis estudios, estoy enfocada en aprender más sobre metodologias de desarrollo web, y nuevas tecnologias como quarkus.
+Actualmente ademas de mis estudios, estoy enfocada en aprender más sobre metodologias de desarrollo web.
 
 ## Hablemos <a name="hablemos"></a>
 
