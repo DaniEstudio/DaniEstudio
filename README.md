@@ -38,11 +38,11 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 
 ## ¿Qué estoy haciendo ahora? <a name="actualmente"></a>
 
-Actualmente ademas de mis estudios, estoy enfocada en aprender más sobre metodologias de desarrollo web.
+Actualmente ademas de mis estudios, estoy enfocada en aprender más sobre metodologias de clean code.
 
 ## Hablemos <a name="hablemos"></a>
 
-Me encanta colaborar con otros desarrolladores y aprender de ellos. Si te interesa trabajar juntos en algún proyecto o simplemente charlar sobre programación, no dudes en contactarme.
+Me encanta colaborar con otros desarrolladores. Si te interesa trabajar juntos en algún proyecto o simplemente charlar sobre programación, no dudes en contactarme!.
 
 <p align="center">
   <a href="https://discord.com/channels/@me/2921" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"></a>
