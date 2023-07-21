@@ -38,7 +38,7 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 
 ## ¿Qué estoy haciendo ahora? <a name="actualmente"></a>
 
-Actualmente ademas de mis estudios, estoy enfocada en aprender más sobre metodologias de clean code.
+Estoy enfocada en aprender más sobre metodologias de clean code y el maquetado en figma.
 
 ## Hablemos <a name="hablemos"></a>
 
