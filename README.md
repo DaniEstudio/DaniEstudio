@@ -33,6 +33,10 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
     <img src="assets/gitlab.png" alt="GitLab logo" width="50" height="50">
     <br>
     Git • GitHub • GitLab
+    <br>
+    <img src="assets/openshift.png" alt="Git logo" width="50" height="50">
+    <br>
+    Openshift
 </div>
 
 
