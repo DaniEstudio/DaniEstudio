@@ -1,10 +1,10 @@
 <h1 align="center">¡Hola! 👋</h1>
 
-<p align="center">Mi nombre es Daniela Gavilán, soy programadora fullstack con experiencia en Angular, Java y Spring. Me encanta desarrollar software y aprender nuevas tecnologías.</p>
+<p align="center">Mi nombre es Daniela Gavilán, soy Analista Desarrolladora con más de dos años de experiencia. Me encanta desarrollar software y aprender nuevas tecnologías.</p>
 
 <div align="center">
     <a href="#acerca-de">Acerca de</a> •
-    <a href="#herramientas">Mis Stack</a> •
+    <a href="#herramientas">Stack</a> •
     <a href="#actualmente">¿Qué estoy haciendo ahora?</a> •
     <a href="#hablemos">Hablemos</a>
 </div>
@@ -14,31 +14,30 @@
 
 En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de cursos que he tomado y más adelante algunos proyectos personales que he desarrollado.
 
-## Mi stack de herramientas <a name="herramientas"></a>
+## Mi principales herramientas <a name="herramientas"></a>
 
 <div align="center">    
     <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
-    <img src="assets/material.png" alt="Angular Material logo" width="50" height="50">
-    <img src="assets/html.png" alt="HTML logo" width="50" height="50">
-    <img src="assets/css-3.png" alt="CSS logo" width="50" height="50">
     <img src="assets/typescript.png" alt="TypeScript logo" width="50" height="50">
     <img src="assets/bootstrap.png" alt="Bootstrap logo" width="50" height="50">
     <br>
-    Angular • Angular Material • HTML • CSS • TypeScript • Bootstrap 
+    Angular • TypeScript
     <br>    
     <img src="assets/java.png" alt="Java logo" width="50" height="50">
     <img src="assets/spring-boot.png" alt="Spring logo" width="50" height="50">
+    <br>
+    Java • Spring
     <img src="assets/git.png" alt="Git logo" width="50" height="50">
     <img src="assets/github.png" alt="GitHub logo" width="50" height="50">
     <img src="assets/gitlab.png" alt="GitLab logo" width="50" height="50">
     <br>
-    Java • Spring • Git • GitHub • GitLab
+    Git • GitHub • GitLab
 </div>
 
 
 ## ¿Qué estoy haciendo ahora? <a name="actualmente"></a>
 
-Estoy enfocada en aprender más sobre metodologias de clean code y el maquetado en figma.
+Siempre aprendiendo algo nuevo! Actualmente enfocada en acelerar mi proceso de desarrollo utilizando el **prompt engineering** y expandiendo mis conocimientos en **Cloud Engineering**
 
 ## Hablemos <a name="hablemos"></a>
 
