@@ -19,7 +19,6 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
 <div align="center">    
     <img src="assets/angular.png" alt="Angular logo" width="50" height="50">
     <img src="assets/typescript.png" alt="TypeScript logo" width="50" height="50">
-    <img src="assets/bootstrap.png" alt="Bootstrap logo" width="50" height="50">
     <br>
     Angular • TypeScript
     <br>    
@@ -27,6 +26,7 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
     <img src="assets/spring-boot.png" alt="Spring logo" width="50" height="50">
     <br>
     Java • Spring
+    <br>  
     <img src="assets/git.png" alt="Git logo" width="50" height="50">
     <img src="assets/github.png" alt="GitHub logo" width="50" height="50">
     <img src="assets/gitlab.png" alt="GitLab logo" width="50" height="50">
