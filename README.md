@@ -24,6 +24,7 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
     <br>    
     <img src="assets/java.png" alt="Java logo" width="50" height="50">
     <img src="assets/spring-boot.png" alt="Spring logo" width="50" height="50">
+    <img src="assets/quarkus_reverse.png" alt="Git logo" width="90" height="55">
     <br>
     Java • Spring
     <br>  
