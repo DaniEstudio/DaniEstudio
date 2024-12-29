@@ -21,22 +21,26 @@ En mi perfil encontrarás repositorios con ejercicios y desafíos resueltos de c
     <img src="assets/typescript.png" alt="TypeScript logo" width="50" height="50">
     <br>
     Angular • TypeScript
-    <br>    
+    <br>
+    <br>
     <img src="assets/java.png" alt="Java logo" width="50" height="50">
     <img src="assets/spring-boot.png" alt="Spring logo" width="50" height="50">
     <img src="assets/quarkus_reverse.png" alt="Git logo" width="90" height="55">
     <br>
-    Java • Spring
-    <br>  
+    Java • Spring • Quarkus
+    <br>
+    <br>
     <img src="assets/git.png" alt="Git logo" width="50" height="50">
     <img src="assets/github.png" alt="GitHub logo" width="50" height="50">
     <img src="assets/gitlab.png" alt="GitLab logo" width="50" height="50">
     <br>
     Git • GitHub • GitLab
     <br>
-    <img src="assets/openshift.png" alt="Git logo" width="50" height="50">
     <br>
-    Openshift
+    <img src="assets/openshift.png" alt="Git logo" width="50" height="50">
+    <img src="assets/Jira.png" alt="Git logo" width="50" height="50">
+    <br>
+    Openshift • Jira
 </div>
 
 
